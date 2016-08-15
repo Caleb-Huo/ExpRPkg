@@ -1,7 +1,11 @@
 # ExpRPkg
+<<<<<<< HEAD
 A simple package to perform square function.
 This function also calls C++.
 The package serves as a simplest example for making R package calling C++.
+=======
+A simple package to perform square function
+>>>>>>> a54810e549f6958c0fe7ce7f728775bad1785ddb
 
 ## Required package
 None
