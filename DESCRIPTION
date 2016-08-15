@@ -1,7 +1,7 @@
 Package: ExpRPkg
 Type: Package
 Title: An R package to square
-Version: 0.0.0
+Version: 0.0.1
 Date: 2015-08-16
 Author: Zhiguang Huo
 Maintainer: Zhiguang Huo <zhh18@pitt.edu>
