@@ -1,5 +1,5 @@
 #include "RMat.h"
-using namespace std;
+using std;
 
 void square(double *G, double *Result){
 	*Result = *G * *G;

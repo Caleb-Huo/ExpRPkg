@@ -17,6 +17,7 @@ install_github("xiaoguang1988/ExpRPkg")
 * in R,
 ```R
 library(ExpRPkg)
-squre(4)
+square(4)
+squareC(4)
 ```
 
