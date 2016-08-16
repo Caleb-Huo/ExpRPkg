@@ -1,5 +1,10 @@
 #include "RMat.h"
-using std;
+
+#include <iostream>
+#include <Rmath.h>
+
+using namespace std;
+
 
 void square(double *G, double *Result){
 	*Result = *G * *G;
