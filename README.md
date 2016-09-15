@@ -1,4 +1,4 @@
-# ExpRPkg
+## ExpRPkg
 A simple package to perform square function.
 This function also calls C++.
 The package serves as a simplest example for making R package calling C++.
